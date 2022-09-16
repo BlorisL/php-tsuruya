@@ -1,5 +1,4 @@
 <?php
-ini_set('default_charset', '');
 class Phrase {
     private string $locale;
     private string $phrase;
