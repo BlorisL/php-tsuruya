@@ -19,7 +19,7 @@ Just PHP and iconv.
 
 ### A Tsuruya\Letter will be represented like this:
 
-| Property | Description |
+| Property | Type | Description |
 | --- | --- | --- |
 | **char** | `string` |  |
 | **translit** | `string` |  |
@@ -40,7 +40,7 @@ Just PHP and iconv.
 | **phraseF** | `string` |  |
 | **letters** | `array` |  |
 | **words** | `array` |  |
-| **replaces** | `\stdClass` | 's account |
+| **replaces** | `\stdClass` |  |
 
 ### Examples
 
